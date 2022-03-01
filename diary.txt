@@ -1,0 +1,22 @@
+Useful links:
+1) Setting up a cronjob: https://kelvinmwinuka.com/how-to-set-up-cronjobs-on-macos/
+2) To add a timestamp: https://stackoverflow.com/questions/59913868/how-can-i-add-a-timestamp-to-a-cron-job-output
+
+2/28/2022:
+Blockers: Having issues after running crontab -e. Getting the following output in the terminal:
+
+~                                                                                                                                                   
+~                                                                                                                                                   
+~                                                                                                                                                   
+~                                                                                                                                                   
+~                                                                                                                                                   
+~                                                                                                                                                   
+~                                                                                                                                                   
+~                                                                                                                                                   
+~                                                                                                                                                   
+~                                                                                                                                                   
+~                                                                                                                                                   
+~                                                                                                                                                   
+~                                                                                                                                                   
+~                                                                                                                                                   
+"/tmp/crontab.5HJhfkSV9n" 0L, 0B
