@@ -20,3 +20,10 @@ Blockers: Having issues after running crontab -e. Getting the following output i
 ~                                                                                                                                                   
 ~                                                                                                                                                   
 "/tmp/crontab.5HJhfkSV9n" 0L, 0B
+
+3/7/2022:
+Still having issues. May need to create and update a PATH variable in the cron.sh file?
+Cheatsheet link: https://www.codementor.io/@akul08/the-ultimate-crontab-cheatsheet-5op0f7o4r
+Best practices: https://www.endpointdev.com/blog/2008/12/best-practices-for-cron/
+Stack Exchange: https://unix.stackexchange.com/questions/416178/crontab-in-mac-is-not-working
+
