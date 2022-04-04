@@ -27,3 +27,7 @@ Cheatsheet link: https://www.codementor.io/@akul08/the-ultimate-crontab-cheatshe
 Best practices: https://www.endpointdev.com/blog/2008/12/best-practices-for-cron/
 Stack Exchange: https://unix.stackexchange.com/questions/416178/crontab-in-mac-is-not-working
 
+4/4/2022:
+Need to understand bash and/or zsh syntax for creating a script. 
+Shell syntax page from GNU: https://www.gnu.org/software/bash/manual/html_node/Shell-Syntax.html
+
