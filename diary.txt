@@ -31,3 +31,16 @@ Stack Exchange: https://unix.stackexchange.com/questions/416178/crontab-in-mac-i
 Need to understand bash and/or zsh syntax for creating a script. 
 Shell syntax page from GNU: https://www.gnu.org/software/bash/manual/html_node/Shell-Syntax.html
 
+5/2/2022:
+Try this: https://stackoverflow.com/questions/21848801/cant-edit-crontab
+The solution in the link works:
+Use the env program to pass environment variables to crontab.
+`sudo env EDITOR=nano crontab -e`
+
+Run every five min: https://crontab.guru/#*/5_*_*_*_*
+
+Need to also edit in Vim: https://phoenixnap.com/kb/how-to-vim-save-quit-exit
+
+Was able to get a simple cron job to run every five minutes!
+
+
